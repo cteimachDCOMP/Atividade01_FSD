@@ -1,0 +1,10 @@
+i[0] = sw0;
+i[1] = sw1;
+
+o[0] = segd0.a_on;
+o[1] = segd0.b_on;
+o[2] = segd0.c_on;
+o[3] = segd0.d_on;
+o[4] = segd0.e_on;
+o[5] = segd0.f_on;
+o[6] = segd0.g_on;
