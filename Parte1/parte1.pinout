@@ -1,0 +1,21 @@
+SW[0] = sw0;
+SW[1] = sw1;
+SW[2] = sw2;
+SW[3] = sw3;
+SW[4] = sw4;
+SW[5] = sw5;
+SW[6] = sw6;
+SW[7] = sw7;
+SW[8] = sw8;
+SW[9] = sw9;
+
+LED[0] = led0;
+LED[1] = led1;
+LED[2] = led2;
+LED[3] = led3;
+LED[4] = led4;
+LED[5] = led5;
+LED[6] = led6;
+LED[7] = led7;
+LED[8] = led8;
+LED[9] = led9;
